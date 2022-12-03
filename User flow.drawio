@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T13:36:52.918Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="rBKiqxw5ZJiUdyRd2698" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-03T13:37:56.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="d9_kqDWS73G7wr-a_Uyw" version="20.5.3" type="github" pages="2">
   <diagram name="Ver1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -286,7 +286,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Ver2" id="_XpzZREW6Q4X_nUnu5YK">
-    <mxGraphModel dx="702" dy="401" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1198" dy="684" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="2I2yMGfu_WmOvKe_8lOT-0" />
         <mxCell id="2I2yMGfu_WmOvKe_8lOT-1" parent="2I2yMGfu_WmOvKe_8lOT-0" />
@@ -528,7 +528,7 @@
         <mxCell id="2I2yMGfu_WmOvKe_8lOT-62" value="Опрос" style="whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=8;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="2I2yMGfu_WmOvKe_8lOT-1">
           <mxGeometry x="527.92" y="71.5" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rEV8QBkSznD-IUYAkQ5Z-0" value="Уведомление" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="2I2yMGfu_WmOvKe_8lOT-1">
+        <mxCell id="rEV8QBkSznD-IUYAkQ5Z-0" value="Push-Уведомление" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="2I2yMGfu_WmOvKe_8lOT-1">
           <mxGeometry x="248" y="73" width="120" height="17" as="geometry" />
         </mxCell>
         <mxCell id="rEV8QBkSznD-IUYAkQ5Z-1" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2I2yMGfu_WmOvKe_8lOT-1" source="rEV8QBkSznD-IUYAkQ5Z-0" target="2I2yMGfu_WmOvKe_8lOT-62">
